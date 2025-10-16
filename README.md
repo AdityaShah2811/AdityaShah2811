@@ -8,9 +8,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AdityaShah2811&color=blueviolet&style=flat-square&label=Profile+Views)
 
-</div>
-
 **Graduate Student @ Northeastern University** • Software Engineer • Cloud & DevOps Enthusiast
+
+</div>
 
 ---
 
