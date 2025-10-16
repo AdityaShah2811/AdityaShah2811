@@ -1,13 +1,14 @@
-<p align="center">
-  
-  # Aditya Pranav Shah
+<div align="center">
+
+# Aditya Pranav Shah
 
 [![Version](https://img.shields.io/badge/version-2025.10.16-blue.svg?style=flat-square)](https://github.com/AdityaShah2811)
 [![Location](https://img.shields.io/badge/location-Boston%2C%20MA-informational.svg?style=flat-square)](https://github.com/AdityaShah2811)
 [![Status](https://img.shields.io/badge/status-actively%20learning-success.svg?style=flat-square)](https://github.com/AdityaShah2811)
-<img src="https://komarev.com/ghpvc/?username=AdityaShah2811&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=AdityaShah2811&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
 
 **Graduate Student @ Northeastern University** • Software Engineer • Cloud & DevOps Enthusiast
 
