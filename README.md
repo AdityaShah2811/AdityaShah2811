@@ -1,6 +1,6 @@
 # Aditya Pranav Shah
 
-[![Version](https://img.shields.io/badge/version-2025.1-blue.svg?style=flat-square)](https://github.com/AdityaShah2811)
+[![Version](https://img.shields.io/badge/version-2025.10.16-blue.svg?style=flat-square)](https://github.com/AdityaShah2811)
 [![Status](https://img.shields.io/badge/status-active-success.svg?style=flat-square)](https://github.com/AdityaShah2811)
 [![Location](https://img.shields.io/badge/location-Boston%2C%20MA-informational.svg?style=flat-square)](https://github.com/AdityaShah2811)
 
