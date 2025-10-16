@@ -1,62 +1,63 @@
 # Aditya Pranav Shah
 
-[![Version](https://img.shields.io/badge/version-2025.10.16-blue.svg?style=flat-square)](https://github.com/AdityaShah2811)
-[![Status](https://img.shields.io/badge/status-active-success.svg?style=flat-square)](https://github.com/AdityaShah2811)
+[![Version](https://img.shields.io/badge/version-2025.1-blue.svg?style=flat-square)](https://github.com/AdityaShah2811)
 [![Location](https://img.shields.io/badge/location-Boston%2C%20MA-informational.svg?style=flat-square)](https://github.com/AdityaShah2811)
+[![Status](https://img.shields.io/badge/status-actively%20learning-success.svg?style=flat-square)](https://github.com/AdityaShah2811)
 
-> Graduate Student @ Northeastern University | Software Engineer | Cloud & DevOps Enthusiast
+**Graduate Student @ Northeastern University** • Software Engineer • Cloud & DevOps Enthusiast
 
-## 👨‍💻 About
+---
 
-Software Engineer with 2+ years of experience in test automation and IoT systems, currently pursuing a Master's in Information Systems at Northeastern University. Passionate about building scalable applications, cloud infrastructure, and automation solutions.
+## About Me
 
-```javascript
-const aditya = {
-    pronouns: "he/him",
-    location: "Boston, MA",
-    education: "MS Information Systems @ Northeastern University",
-    graduation: "2027",
-    role: "Software Engineer",
-    focus: ["Full-Stack Development", "Cloud Engineering", "DevOps", "IoT Systems"],
-    currentlyLearning: ["AWS", "Docker", "Terraform", "Kubernetes"],
-    interests: ["Automation", "Cloud Architecture", "Open Source"]
-};
-```
+I'm a Software Engineer with 2+ years of experience in test automation and IoT systems, currently pursuing a Master's degree in Information Systems at Northeastern University (Expected 2027). I'm passionate about building scalable applications, automating workflows, and exploring cloud infrastructure.
 
-## 🛠️ Technical Skills
+My work spans full-stack development, testing automation, IoT systems, and cloud engineering. I'm particularly interested in DevOps practices, infrastructure as code, and creating efficient, maintainable systems.
 
-**Languages**
-```
-Python        ████████████████████  95%
-JavaScript    ███████████████████   90%
-Java          ██████████████        70%
-C++           ████████████          60%
-```
+**Current Focus:**
+- 🎓 Pursuing MS in Information Systems at Northeastern University
+- ☁️ Working towards AWS Cloud Practitioner certification (Target: Feb 2025)
+- 🔧 Building cloud infrastructure with Terraform and AWS
+- 🤝 Contributing to open-source IoT and automation projects
+- 📚 Learning Docker, Kubernetes, and CI/CD pipelines
 
-**Technologies & Tools**
+---
+
+## Technical Skills
+
+**Programming Languages**  
+Python • JavaScript • TypeScript • Java • C++
+
+**Frontend Development**  
+React • HTML5 • CSS3 • Tailwind CSS • Responsive Design
+
+**Backend Development**  
+Node.js • Express.js • REST APIs • MongoDB • MySQL
+
+**DevOps & Cloud**  
+Git • Docker (learning) • AWS (learning) • Linux • CI/CD Concepts • Terraform
+
+**Testing & Automation**  
+Selenium • JMeter • Postman • pytest • Test Automation Frameworks
+
+**Tools & Technologies**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-## 🎯 Current Focus
+---
 
-- 🎓 Pursuing **MS in Information Systems** at Northeastern University (Expected 2027)
-- ☁️ Working towards **AWS Cloud Practitioner** certification (Target: Feb 2025)
-- 🔧 Building cloud infrastructure projects with **Terraform** and **AWS**
-- 🤝 Contributing to **open-source IoT** and **automation** projects
-- 📚 Learning **Docker**, **Kubernetes**, and **CI/CD** best practices
-
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdityaShah2811&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
@@ -67,29 +68,66 @@ C++           ████████████          60%
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaShah2811&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 🏆 Featured Projects
+---
 
-### [aditya-folio-forge](https://github.com/AdityaShah2811/aditya-folio-forge)
-> Modern portfolio website built with React, TypeScript, and Tailwind CSS
-- Comprehensive design system with dark/light mode
-- Responsive architecture optimized for all devices
-- SEO optimized with semantic HTML
+## Featured Projects
 
-### [tf-aws-infra](https://github.com/AdityaShah2811/tf-aws-infra)
-> AWS infrastructure as code using Terraform
-- Automated cloud infrastructure provisioning
-- Scalable and maintainable IaC setup
+### 🎨 [aditya-folio-forge](https://github.com/AdityaShah2811/aditya-folio-forge)
+Modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS. Features comprehensive theming, dark/light mode, smooth animations, and optimized component architecture.
 
-### [Donation Camp Ecosystem](https://github.com/AdityaShah2811/Donation_Camp_Ecosystem)
-> Full-stack donation management platform
-- MEAN stack implementation
-- Real-time data processing
+**Tech Stack:** React • TypeScript • Tailwind CSS • Vite
 
-## 📫 Connect With Me
+---
+
+### ☁️ [tf-aws-infra](https://github.com/AdityaShah2811/tf-aws-infra)
+AWS infrastructure as code using Terraform for automated cloud infrastructure provisioning. Implements scalable and maintainable IaC practices.
+
+**Tech Stack:** Terraform • AWS • Infrastructure as Code
+
+---
+
+### 🌐 [webapp](https://github.com/AdityaShah2811/webapp)
+Full-stack web application showcasing modern development practices and scalable architecture.
+
+**Tech Stack:** Node.js • Express.js • MongoDB • React
+
+---
+
+### 🏥 [Diabetes Risk Assessment System](https://github.com/AdityaShah2811/INFO5100_Final_Project_Team_25)
+Comprehensive Java-based ecosystem for diabetes risk assessment, volunteer management, and lifestyle intervention programs. Features role-based access control, phased intervention tracking, and data visualization.
+
+**Tech Stack:** Java • Swing • DB4O • JFreeChart
+
+---
+
+### 🎁 [Donation Camp Ecosystem](https://github.com/AdityaShah2811/Donation_Camp_Ecosystem)
+Full-stack donation management platform built with MEAN stack for efficient donation tracking and camp management.
+
+**Tech Stack:** MongoDB • Express.js • Angular • Node.js
+
+---
+
+## Professional Experience
+
+**Software Engineer - Test Automation** • UtopiaTech Pvt Ltd  
+*May 2023 - Aug 2024 • Mumbai, India*
+- Automated testing processes for IoT platform serving 10,000+ users
+- Reduced manual testing time by 40% through comprehensive automation
+- Improved deployment efficiency by 30% through optimized Git workflows
+
+**Software Developer Intern** • UtopiaTech Pvt Ltd  
+*Dec 2019 - May 2020 • Mumbai, India*
+- Deployed and configured 50+ IoT devices for Smart City pilot project
+- Built automation tools reducing testing time by 70%
+- Optimized database performance by 35%
+
+---
+
+## Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-shah.aditya%40northeastern.edu-red?style=flat-square&logo=gmail&logoColor=white)](mailto:shah.aditya@northeastern.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-justaditya1-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/justaditya1)
-[![GitHub](https://img.shields.io/badge/GitHub-AdityaShah2811-black?style=flat-square&logo=github&logoColor=white)](https://github.com/AdityaShah2811)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-justaditya1-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/justaditya1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome&logoColor=white)](#)
 
 ---
 
@@ -98,9 +136,5 @@ C++           ████████████          60%
 </p>
 
 <p align="center">
-  <i>💡 "Building the future, one commit at a time"</i>
-</p>
-
-<p align="center">
-  <sub>⚡ This README is part of my Northeastern University GitHub portfolio</sub>
+  <sub>⚡ This profile represents my academic and professional work during my graduate studies at Northeastern University</sub>
 </p>
