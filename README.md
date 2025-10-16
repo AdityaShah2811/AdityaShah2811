@@ -1,6 +1,12 @@
 # Aditya Pranav Shah
 
-[![Version](https://img.shields.io/badge/version-2025.1-blue.svg?style=flat-square)](https://github.com/AdityaShah2811)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdityaShah2811&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+---
+
+[![Version](https://img.shields.io/badge/version-2025.10.16-blue.svg?style=flat-square)](https://github.com/AdityaShah2811)
 [![Location](https://img.shields.io/badge/location-Boston%2C%20MA-informational.svg?style=flat-square)](https://github.com/AdityaShah2811)
 [![Status](https://img.shields.io/badge/status-actively%20learning-success.svg?style=flat-square)](https://github.com/AdityaShah2811)
 
@@ -130,10 +136,6 @@ Full-stack donation management platform built with MEAN stack for efficient dona
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome&logoColor=white)](#)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaShah2811&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
 
 <p align="center">
   <sub>⚡ This profile represents my academic and professional work during my graduate studies at Northeastern University</sub>
