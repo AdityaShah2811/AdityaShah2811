@@ -148,7 +148,3 @@ Full-stack donation management platform built with MEAN stack for efficient dona
 <p align="center">
   <sub>⚡ This profile represents my academic and professional work during my graduate studies at Northeastern University</sub>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/last%20updated-2026--11--11-informational?style=flat-square" alt="Last updated: 2026-11-11">
-</p>
