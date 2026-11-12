@@ -2,7 +2,7 @@
 
 # Aditya Pranav Shah
 
-[![Version](https://img.shields.io/badge/version-2025.10.16-blue.svg?style=flat-square)](https://github.com/AdityaShah2811)
+[![Version](https://img.shields.io/badge/version-2026.11.11-blue.svg?style=flat-square)](https://github.com/AdityaShah2811)
 [![Location](https://img.shields.io/badge/location-Boston%2C%20MA-informational.svg?style=flat-square)](https://github.com/AdityaShah2811)
 [![Status](https://img.shields.io/badge/status-actively%20learning-success.svg?style=flat-square)](https://github.com/AdityaShah2811)
 
@@ -16,13 +16,13 @@
 
 ## About Me
 
-I'm a Software Engineer with 2+ years of experience in test automation and IoT systems, currently pursuing a Master's degree in Information Systems at Northeastern University (Expected 2027). I'm passionate about building scalable applications, automating workflows, and exploring cloud infrastructure.
+I'm a Software Engineer with nearly two years of experience in test automation, embedded systems, and IoT, currently pursuing a Master's degree in Information Systems at Northeastern University (Expected 2027). I'm passionate about building scalable applications, automating workflows, and exploring cloud infrastructure.
 
 My work spans full-stack development, testing automation, IoT systems, and cloud engineering. I'm particularly interested in DevOps practices, infrastructure as code, and creating efficient, maintainable systems.
 
 **Current Focus:**
 - 🎓 Pursuing MS in Information Systems at Northeastern University
-- ☁️ Working towards AWS Cloud Practitioner certification (Target: Feb 2025)
+- 🎯 Looking for a full-time co-op from January 2027
 - 🔧 Building cloud infrastructure with Terraform and AWS
 - 🤝 Contributing to open-source IoT and automation projects
 - 📚 Learning Docker, Kubernetes, and CI/CD pipelines
@@ -115,17 +115,25 @@ Full-stack donation management platform built with MEAN stack for efficient dona
 
 ## Professional Experience
 
-**Software Engineer - Test Automation** • UtopiaTech Pvt Ltd  
+**Software Engineer – Test Automation & Backend Development** • EazyIoT (formerly UtopiaTech Pvt. Ltd.)  
 *May 2023 - Aug 2024 • Mumbai, India*
-- Automated testing processes for IoT platform serving 10,000+ users
+- Automated testing processes for an MQTT-based IoT platform serving 10,000+ users, establishing the company's test automation function from scratch with Python Selenium suites and JMeter load tests
 - Reduced manual testing time by 40% through comprehensive automation
-- Improved deployment efficiency by 30% through optimized Git workflows
+- Ran functional, integration, API (Postman), and performance testing across web and mobile apps, resolving 50+ stability issues with a 20-developer team
+- Introduced regression testing strategies that cut test cycles by 15%
+- Moved into backend development, refactoring Node.js and MongoDB code for more efficient data handling and building MEAN-stack dashboards
+- Managed Git branching workflows and supported CI/CD deployments on Linux with the DevOps team
 
-**Software Developer Intern** • UtopiaTech Pvt Ltd  
+**Tech Stack:** Python • Selenium • JMeter • Postman • REST APIs • MQTT • Node.js • MongoDB • MEAN Stack • Git • Linux • CI/CD
+
+**Software Engineer Intern – Embedded Systems & Electronics** • EazyIoT (formerly UtopiaTech Pvt. Ltd.)  
 *Dec 2019 - May 2020 • Mumbai, India*
-- Deployed and configured 50+ IoT devices for Smart City pilot project
-- Built automation tools reducing testing time by 70%
-- Optimized database performance by 35%
+- Developed Embedded C firmware for smart switch and timer microcontrollers, enabling relay control, timing, and scheduling
+- Assembled and troubleshot smart switch and energy meter electronics, validating firmware and isolating component faults
+- Helped deploy and calibrate 50+ smart timers for a Smart City pilot project, working with field engineers
+- Automated device testing with Python scripts and a device simulator
+
+**Tech Stack:** Embedded C • Microcontrollers • Python • Electronics Assembly • Firmware Testing • IoT Protocols
 
 ---
 
@@ -139,4 +147,8 @@ Full-stack donation management platform built with MEAN stack for efficient dona
 
 <p align="center">
   <sub>⚡ This profile represents my academic and professional work during my graduate studies at Northeastern University</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/last%20updated-2026--11--11-informational?style=flat-square" alt="Last updated: 2026-11-11">
 </p>
